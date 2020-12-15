@@ -1,4 +1,4 @@
-![I am a Full Stack Web Developer.]<img src="assets/banner.png">
+<img src="assets/banner.png">
 
 # नमस्ते (Namaste) 🙏
 
