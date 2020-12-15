@@ -1,10 +1,11 @@
-## नमस्ते (Namaste) 🙏, I'm Rishav
-### I am full stack web developer.
 ![I am a Full Stack Web Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-My name is Rishav Singh & I am from Kolkata, West Bengal, India. I love learning new technologies, I like challenges, so i spend most of my time on solving dynamic problems with programming skills that I have learned so far.
+# नमस्ते (Namaste) 🙏
 
-### Skills:
+## I'm Rishav Singh
+I am from Kolkata, West Bengal, India. I love learning new technologies, I like challenges, so i spend most of my time on solving dynamic problems with programming skills that I have learned so far.
+
+## My Skills:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -18,7 +19,7 @@ My name is Rishav Singh & I am from Kolkata, West Bengal, India. I love learning
 <br/>
 <br/>
 
-### My Tools:
+## My Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
