@@ -1,9 +1,9 @@
-<img src="assets/banner.png">
+<img src="assets/final_banner.jpg"><br/><br/>
 
 # नमस्ते (Namaste) 🙏
 
-## I'm Rishav Singh
-I am from Kolkata, West Bengal, India. I love learning new technologies, I like challenges, so i spend most of my time on solving dynamic problems with programming skills that I have learned so far.
+# Rishav Singh
+I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development using technologies like <b>PHP, NodeJS etc.</b>, I love learning new technologies such Python. <br/><br/> I like solving challenges on <b>HackerRank</b>, so I also spend time on solving <b>dynamic problems</b> with programming skills that I have learned so far.<br/><br/> I am looking forward to contibuting to <b>open source projects</b> more often.
 
 ## Currently Learning:
 
@@ -13,16 +13,21 @@ I am from Kolkata, West Bengal, India. I love learning new technologies, I like 
 
 ## My Skills:
 
-<img align="left" alt="HTML5" width="26px" src="assets/html.png" style="margin-right: 7px" />
-<img align="left" alt="CSS3" width="26px" src="assets/css.png" style="margin-right: 6px" />
-<img align="left" alt="JavaScript" width="26px" src="assets/js.png" />
-<img align="left" alt="PHP" width="49px" src="assets/php.png" style="margin-right: 0.1px" />
-<img align="left" alt="Node.js" width="32px" src="assets/node.png" style="margin-right: 7px" />
-<img align="left" alt="SQL" width="26px" height="26px" src="assets/sql.png" style="margin-right: 7px" />
-<img align="left" alt="MySQL" width="26px" src="assets/mysql.png" style="margin-right: 7px" />
-<img align="left" alt="MongoDB" width="26px" src="assets/mongodb.png" style="margin-right: 7px" />
-<img align="left" alt="Git" width="26px" src="assets/git.png" style="margin-right: 7px" />
-<img align="left" alt="GitHub" width="26px" src="assets/github_icon.png" style="margin-right: 7px" />
+<img align="left" alt="C Prog." width="26px" src="assets/c-logo.png" style="margin-right: 2px" />
+<img align="left" alt="C Prog." width="26px" src="assets/cpp.png" style="margin-right: 2px" />
+<img align="left" alt="C Prog." width="26px" src="assets/csharp_logo.png" style="margin-right: 2px" />
+<br/><br/>
+<img align="left" alt="HTML5" width="26px" src="assets/html.png" style="margin-right: 2px" />
+<img align="left" alt="CSS3" width="26px" src="assets/css.png" style="margin-right: 2px" />
+<img align="left" alt="JavaScript" width="26px" src="assets/js.png" style="margin-right: 2px" />
+<img align="left" alt="PHP" width="26px" src="assets/php.png" style="margin-right: 2px" />
+<img align="left" alt="Node.js" width="32px" src="assets/node.png" style="margin-right: 2px" /><br/><br/>
+<img align="left" alt="SQL" width="26px" height="26px" src="assets/sql.png" style="margin-right: 2px" />
+<img align="left" alt="MySQL" width="26px" src="assets/mysql.png" style="margin-right: 2px" />
+<img align="left" alt="MongoDB" width="26px" src="assets/mongodb.png" style="margin-right: 2px" />
+<img align="left" alt="Git" width="26px" src="assets/git.png" style="margin-right: 2px" />
+<img align="left" alt="GitHub" width="26px" src="assets/github_icon.png" style="margin-right: 2px" />
+<br/>
 <br/>
 <br/>
 
@@ -36,14 +41,13 @@ I am from Kolkata, West Bengal, India. I love learning new technologies, I like 
 ## Find me around the web 🌎:
 <img align="left" width="160" height="160" src="assets/my-octocat.png"></a>
 
-- My Website &nbsp;: &nbsp; [<img src='assets/website.png' alt='website' height='25' align="center">](https://rishavsinghh.github.io/)
+
 - Practicing on &nbsp;: &nbsp; [<img src='assets/hackerrank.png' alt='hackerrank' height='25' align="center">](rishav09)
-- Follow me on &nbsp;: &nbsp; [<img src='assets/twitter.png' alt='twitter' height='25' align="center">](https://twitter.com/@geist9_)
 - Finding job on &nbsp;: &nbsp; [<img src='assets/linkedin.png' alt='linkedin' height='25' align="center">](https://www.linkedin.com/in/rishavsingh@outlook.in/)
-- I fork on &nbsp;: &nbsp; [<img src='assets/github_icon.png' alt='github' height='25' colour='white' align="center">](https://github.com/rishavsinghh)
-- Email Me &nbsp;: &nbsp; [<img src='assets/email_icon.png' alt='protonmail' height='25' align="center">](rishavsingh.dev@protonmail.com)
+- Email Me &nbsp;: &nbsp; rishavsingh@outlook.in
 <br/>
 <br/>
+
 
 ## Examples of Work
 Coming Soon!
