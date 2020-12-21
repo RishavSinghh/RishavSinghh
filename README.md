@@ -38,6 +38,21 @@ I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development
 <br/>
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+<br/>
+<br/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavsinghh&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishavsinghh)  
+
+<br/>
+<br/>
+<br/>
+
 ## Find me around the web 🌎:
 <img align="left" width="160" height="160" src="assets/my-octocat.png"></a>
 
@@ -54,7 +69,4 @@ Coming Soon!
 <br/>
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavsinghh&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishavsinghh)  
 
