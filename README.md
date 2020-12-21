@@ -37,6 +37,7 @@ I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development
 <img align="left" alt="Terminal" width="26px" src="assets/terminal.png" style="margin-left: 10px" />
 <br/>
 <br/>
+<br/>
 
 <!--START_SECTION:waka-->
 ```text
