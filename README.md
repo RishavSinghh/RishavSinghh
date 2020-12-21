@@ -39,6 +39,9 @@ I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development
 <br/>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <br/>
