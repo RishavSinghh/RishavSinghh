@@ -41,8 +41,6 @@ I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2020 - 25 December, 2020
-
 Python       2 hrs 24 mins   █████████████████▒░░░░░░░   69.66 % 
 PHP          1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   29.43 % 
 HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
