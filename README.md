@@ -40,20 +40,6 @@ I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development
 <br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 55 Contributions in the Year 2020
- > 
-> 📦 132.3 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -93,33 +79,11 @@ Git Config               1 min               ░░░░░░░░░░░�
 PyCharmCore              10 hrs 4 mins       ██████████████████████░░░   90.3% 
 VS Code                  1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.7%
 
-🐱‍💻 Projects: 
-pomodoro-start           3 hrs               ██████░░░░░░░░░░░░░░░░░░░   26.97% 
-password-manager-start   2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   23.1% 
-day-27                   2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12% 
-password-manager-start 2.1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
-monster-university-WP-the1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   9.13%
-
 💻 Operating System: 
 Mac                      7 hrs 41 mins       █████████████████░░░░░░░░   68.98% 
 Windows                  3 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   31.02%
 
 ```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Hack                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/RishavSinghh/RishavSinghh/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
