@@ -2,7 +2,7 @@
 
 # नमस्ते (Namaste) 🙏
 
-<h1>This is h1</h1>
+<h1 style="text-align: center;">This is h1</h1>
 
 # Rishav Singh
 I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development using technologies like <b>PHP, NodeJS etc.</b>, I love learning new technologies such Python. <br/><br/> I like solving challenges on <b>HackerRank</b>, so I also spend time on solving <b>dynamic problems</b> with programming skills that I have learned so far.<br/><br/> I am looking forward to contibuting to <b>open source projects</b> more often.
