@@ -2,15 +2,13 @@
 
 # नमस्ते (Namaste) 🙏
 
-<h1 style="text-align: center;">This is h1</h1>
-
 # Rishav Singh
 
-I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development using technologies like <b>PHP, NodeJS etc.</b>, I love learning new technologies such Python. <br/><br/> I like solving challenges on <b>HackerRank</b>, so I also spend time on solving <b>dynamic problems</b> with programming skills that I have learned so far.<br/><br/> I am looking forward to contibuting to <b>open source projects</b> more often.
+I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development using technologies like <b>NodeJS etc.</b>, I love learning new technologies such Python, Flask. <br/><br/> I like solving challenges on <b>HackerRank</b>, so I also spend time on solving <b>dynamic problems</b> with programming skills that I have learned so far.<br/><br/> I am looking forward to contibuting to <b>open source projects</b> more often.
 
 ## Currently Learning:
 
-<img align="left" alt="Python" width="26px" src="assets/python.png" style="margin-right: 7px" /> - <b>100 Days of Code.
+<img align="left" alt="React" width="26px" src="assets/react_logo.png" style="margin-right: 7px" /> - <b>React JS.
 <br/>
 <br/>
 
@@ -23,7 +21,9 @@ I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development
 <img align="left" alt="HTML5" width="26px" src="assets/html.png" style="margin-right: 2px" />
 <img align="left" alt="CSS3" width="26px" src="assets/css.png" style="margin-right: 2px" />
 <img align="left" alt="JavaScript" width="26px" src="assets/js.png" style="margin-right: 2px" />
+<!-- 
 <img align="left" alt="PHP" width="26px" src="assets/php.png" style="margin-right: 2px" />
+-->
 <img align="left" alt="Node.js" width="32px" src="assets/node.png" style="margin-right: 2px" /><br/><br/>
 <img align="left" alt="SQL" width="26px" height="26px" src="assets/sql.png" style="margin-right: 2px" />
 <img align="left" alt="MySQL" width="26px" src="assets/mysql.png" style="margin-right: 2px" />
