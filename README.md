@@ -43,6 +43,8 @@ I am Rishav Singh from Kolkata, India. <br/><br/>I do Full Stack web development
 <br/>
 <br/>
 
+<script src="https://tryhackme.com/badge/432008"></script>
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
